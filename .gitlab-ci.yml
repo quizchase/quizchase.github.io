@@ -6,7 +6,7 @@ pages:
     - node_modules/
 
   script:
-  - hexo deploy
+
   artifacts:
     paths:
     - public
