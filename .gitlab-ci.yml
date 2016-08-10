@@ -6,8 +6,6 @@ pages:
     - node_modules/
 
   script:
-  - npm install hexo-cli -g
-  - npm install
   - hexo deploy
   artifacts:
     paths:
